@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/alfa_slab_one</item>
+        <item>@font/anton</item>
+        <item>@font/bangers</item>
+        <item>@font/bevan</item>
+        <item>@font/carter_one</item>
+        <item>@font/galada</item>
+        <item>@font/martel_bold</item>
+        <item>@font/martel_sans_extralight</item>
+        <item>@font/racing_sans_one</item>
+    </array>
+</resources>
